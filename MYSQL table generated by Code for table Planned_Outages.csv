@@ -1,0 +1,72 @@
+Date_select,Sector_Type,Station,State,Agency,Unit_no,Capacity,Reason,Outage_date,Outage_time,Expected_revival_date,Inserted_at
+26-05-2020,"Central Sector (CS)","SKS Power",Chhattisgarh,SKS,2,300,"Low schedule",07-07-2019,00:18,-,2020-05-27T15:33:50.521067
+26-05-2020,"Central Sector (CS)","RKM Power",Chhattisgarh,RKMPPL,4,360,"Commercial operation declared from 00:00hrs of 20-03-2019; kept out on less fuel; intimated that from 10-05-2019, the reason is no schedule due to no PPA",20-03-2019,00:00,-,2020-05-27T15:33:50.626127
+26-05-2020,"Central Sector (CS)","GMR CHHATISGARH",Chhattisgarh,"GMR Chattisgarh Energy Ltd",1,685,"Coal shortage",22-06-2019,06:11,-,2020-05-27T15:33:50.733795
+26-05-2020,"Central Sector (CS)","SSP RBPH(Hy)",Gujarat,SSP,3,200,"Low reservoir level",30-06-2017,23:45,-,2020-05-27T15:33:50.895603
+26-05-2020,"Central Sector (CS)","SSP RBPH(Hy)",Gujarat,SSP,4,200,"Low reservoir level",01-07-2017,00:15,-,2020-05-27T15:33:51.031439
+26-05-2020,"Central Sector (CS)","SSP RBPH(Hy)",Gujarat,SSP,5,200,"Low reservoir level; unit-5 is on AOH since 09:00hrs/01.12.2017",01-07-2017,00:30,-,2020-05-27T15:33:51.145134
+26-05-2020,"Central Sector (CS)","Gandhar GT 2",Gujarat,NTPC,2,144.30,RSD,09-07-2019,01:56,-,2020-05-27T15:33:51.210585
+26-05-2020,"Central Sector (CS)",CGPL,Gujarat,CGPL_UMPP,40,830,"for generator inspection & capital overhauling",15-06-2019,01:17,-,2020-05-27T15:33:51.298838
+26-05-2020,"Central Sector (CS)",Kawas,Gujarat,NTPC,"GT 1A",106,RSD,28-06-2019,15:31,-,2020-05-27T15:33:51.399451
+26-05-2020,"Central Sector (CS)",Gandhar,Gujarat,NTPC,4,224.29,RSD,27-06-2019,10:17,-,2020-05-27T15:33:51.477246
+26-05-2020,"Central Sector (CS)","Gandhar GT 1",Gujarat,NTPC,1,144.30,RSD,27-06-2019,08:16,-,2020-05-27T15:33:51.544070
+26-05-2020,"Central Sector (CS)",CGPL,Gujarat,CGPL_UMPP,50,830,COH,15-06-2019,08:45,-,2020-05-27T15:33:51.610888
+26-05-2020,"Central Sector (CS)",Kawas,Gujarat,NTPC,"GT 2B",106,RSD,27-06-2019,09:31,-,2020-05-27T15:33:51.733564
+26-05-2020,"Central Sector (CS)","SSP RBPH(Hy)",Gujarat,SSP,1,200,"Low reservoir level",01-07-2017,00:00,-,2020-05-27T15:33:51.799591
+26-05-2020,"Central Sector (CS)","SSP RBPH(Hy)",Gujarat,SSP,6,200,"Low reservoir level",01-07-2017,00:45,-,2020-05-27T15:33:51.866204
+26-05-2020,"Central Sector (CS)","Gandhar GT 3",Gujarat,NTPC,3,144.30,"C-inspection(Major Overhauling)",14-06-2019,00:00,-,2020-05-27T15:33:51.933522
+26-05-2020,"Central Sector (CS)","SSP RBPH(Hy)",Gujarat,SSP,2,200,"Low reservoir level",30-06-2017,23:45,-,2020-05-27T15:33:52.011436
+26-05-2020,"Central Sector (CS)",DGEN,Gujarat,"Torrent Power",52,400,RSD,01-05-2019,00:05,-,2020-05-27T15:33:52.122840
+26-05-2020,"Central Sector (CS)",Kawas,Gujarat,NTPC,"ST 2C",116.10,RSD,28-06-2019,11:06,-,2020-05-27T15:33:52.211597
+26-05-2020,"Central Sector (CS)",Kawas,Gujarat,NTPC,"GT 2A",106,RSD,28-06-2019,11:25,-,2020-05-27T15:33:52.300356
+26-05-2020,"Central Sector (CS)",DGEN,Gujarat,"Torrent Power",53,400,RSD,01-05-2019,00:40,-,2020-05-27T15:33:52.389122
+26-05-2020,"Central Sector (CS)",Gadarwada,"Madhya Pradesh",NTPC,1,800,RSD,29-06-2019,11:39,-,2020-05-27T15:33:52.577828
+26-05-2020,"Central Sector (CS)","JP Nigrie","Madhya Pradesh",JAYPEE,1,660,AOH.,01-07-2019,01:30,-,2020-05-27T15:33:52.677149
+26-05-2020,"Central Sector (CS)",RGPPL,Maharashtra,RGPPL,1B,320,"Kept on Dry Preservation/gas shortage",31-03-2014,23:00,-,2020-05-27T15:33:52.766636
+26-05-2020,"Central Sector (CS)",MOUDA,Maharashtra,NTPC,4,660,RSD.,28-06-2019,19:45,-,2020-05-27T15:33:52.866627
+26-05-2020,"Central Sector (CS)","Solapur STPS",Maharashtra,NTPC,2,660,RSD,13-06-2019,23:30,-,2020-05-27T15:33:52.933383
+26-05-2020,"Central Sector (CS)",RGPPL,Maharashtra,RGPPL,2A,332,"Less gas availability",02-07-2019,21:00,-,2020-05-27T15:33:53.000132
+26-05-2020,"Central Sector (CS)",RGPPL,Maharashtra,RGPPL,2B,332,"Less gas availability",02-07-2019,21:00,-,2020-05-27T15:33:53.065953
+26-05-2020,"Central Sector (CS)",RGPPL,Maharashtra,RGPPL,1A,320,"Kept on Dry Preservation/gas shortage",08-07-2014,13:30,-,2020-05-27T15:33:53.155709
+26-05-2020,"Central Sector (CS)","Solapur STPS",Maharashtra,NTPC,1,660,RSD,16-06-2019,01:21,-,2020-05-27T15:33:53.221489
+26-05-2020,"State Sector (SS)",Wanakbori,Gujarat,GSECL,5,210,RSD,06-07-2019,11:41,-,2020-05-27T15:33:53.322278
+26-05-2020,"State Sector (SS)","GIPCL STG",Gujarat,GSECL,2,165,"No purchase from 1st March 18",01-03-2018,00:00,-,2020-05-27T15:33:53.433131
+26-05-2020,"State Sector (SS)","GPEC GT",Gujarat,"Torrent Power",3,138,"No schedule(PPA expired)",10-12-2018,11:36,-,2020-05-27T15:33:53.521257
+26-05-2020,"State Sector (SS)","GPEC GT",Gujarat,"Torrent Power",1,138,"No schedule(PPA expired)",10-12-2018,12:34,-,2020-05-27T15:33:53.610025
+26-05-2020,"State Sector (SS)","GPEC GT",Gujarat,"Torrent Power",2,138,"No schedule(PPA expired)",10-12-2018,18:55,-,2020-05-27T15:33:53.700295
+26-05-2020,"State Sector (SS)",GPPC,Gujarat,GSPC,2,351,RSD,17-10-2018,20:47,-,2020-05-27T15:33:53.788003
+26-05-2020,"State Sector (SS)",GSEG,Gujarat,GSPC,1,78,RSD,11-10-2018,22:26,-,2020-05-27T15:33:53.856421
+26-05-2020,"State Sector (SS)",DGBP,Gujarat,GSECL,3,375,RSD,04-07-2019,21:33,-,2020-05-27T15:33:53.944645
+26-05-2020,"State Sector (SS)",Wanakbori,Gujarat,GSECL,3,210,RSD,04-07-2019,02:45,-,2020-05-27T15:33:54.010783
+26-05-2020,"State Sector (SS)",Wanakbori,Gujarat,GSECL,6,210,RSD,05-07-2019,08:24,-,2020-05-27T15:33:54.077115
+26-05-2020,"State Sector (SS)",Ukai,Gujarat,GSECL,6,500,RSD,05-07-2019,09:33,-,2020-05-27T15:33:54.177853
+26-05-2020,"State Sector (SS)","UTRAN STG II",Gujarat,GSECL,1,375,RSD.,09-07-2019,00:16,-,2020-05-27T15:33:54.244088
+26-05-2020,"State Sector (SS)","GSEG STAGE II",Gujarat,GSPC,1,351,RSD,25-06-2019,03:14,-,2020-05-27T15:33:54.310954
+26-05-2020,"State Sector (SS)",Gandhinagar,Gujarat,GSECL,3,210,RSD.,27-06-2019,15:31,-,2020-05-27T15:33:54.400535
+26-05-2020,"State Sector (SS)",Gandhinagar,Gujarat,GSECL,4,210,RSD.,27-06-2019,13:49,-,2020-05-27T15:33:54.488901
+26-05-2020,"State Sector (SS)",Wanakbori,Gujarat,GSECL,4,210,RSD,04-07-2019,10:50,-,2020-05-27T15:33:54.567116
+26-05-2020,"State Sector (SS)",Wanakbori,Gujarat,GSECL,2,210,RSD,04-07-2019,12:10,-,2020-05-27T15:33:54.655078
+26-05-2020,"State Sector (SS)",Wanakbori,Gujarat,GSECL,1,210,RSD.,04-07-2019,14:55,-,2020-05-27T15:33:54.721901
+26-05-2020,"State Sector (SS)",Singaji,"Madhya Pradesh",MPPGCL,1,600,COH,05-06-2019,23:49,-,2020-05-27T15:33:54.812849
+26-05-2020,"State Sector (SS)","JP Bina","Madhya Pradesh",MPPGCL,2,250,"Boiler inspection",29-06-2019,23:28,-,2020-05-27T15:33:54.910789
+26-05-2020,"State Sector (SS)","Satpura IV","Madhya Pradesh",MPPGCL,11,250,COH,06-07-2019,00:01,-,2020-05-27T15:33:54.977045
+26-05-2020,"State Sector (SS)","RATTAN INDIA POWER(A)",Maharashtra,"Rattan India Power Ltd",3,270,"Zero schedule",01-07-2019,00:00,-,2020-05-27T15:33:55.044302
+26-05-2020,"State Sector (SS)",PARLI,Maharashtra,MAHAGENCO,4,210,"ECONOMIC SHUT DOWN SINCE 1ST APRIL 2016",05-07-2015,18:45,-,2020-05-27T15:33:55.144568
+26-05-2020,"State Sector (SS)","APML Tiroda",Maharashtra,"Adani Transmission India Limited",4,660,"tripped on MS drain bonnet leakage; converted to AOH for 35days w.e.f. 11:55hrs/20-06-2019",19-06-2019,16:09,-,2020-05-27T15:33:55.233456
+26-05-2020,"State Sector (SS)","RATTAN INDIA POWER(A)",Maharashtra,"Rattan India Power Ltd",5,270,"No Schedule.",29-06-2019,03:00,-,2020-05-27T15:33:55.321977
+26-05-2020,"State Sector (SS)","RATTAN INDIA POWER(A)",Maharashtra,"Rattan India Power Ltd",1,270,RSD,30-06-2019,16:00,-,2020-05-27T15:33:55.383397
+26-05-2020,"State Sector (SS)",PIONEER(262+127),Maharashtra,MAHAGENCO,1,388,RSD,07-02-2017,17:45,-,2020-05-27T15:33:55.450641
+26-05-2020,"State Sector (SS)","RATTAN INDIA POWER(A)",Maharashtra,"Rattan India Power Ltd",4,270,"NO schedule",01-07-2019,17:45,-,2020-05-27T15:33:55.590489
+26-05-2020,"State Sector (SS)",WPCL,Maharashtra,MAHAGENCO,2,135,RSD,27-11-2018,00:00,-,2020-05-27T15:33:55.688877
+26-05-2020,"State Sector (SS)",PARLI,Maharashtra,MAHAGENCO,5,210,"ECONOMIC SHUT DOWN SINCE 1ST APRIL 2016",06-07-2015,14:55,-,2020-05-27T15:33:55.808853
+26-05-2020,"State Sector (SS)",PARLI,Maharashtra,MAHAGENCO,8,250,"No schedule",04-06-2019,00:00,-,2020-05-27T15:33:56.071179
+26-05-2020,"State Sector (SS)",Bhusawal,Maharashtra,MAHAGENCO,3,210,RSD,28-06-2019,18:35,-,2020-05-27T15:33:56.144843
+26-05-2020,"State Sector (SS)","Dhariwal STU",Maharashtra,"Dhariwal Infrastructure Ltd",1,300,"No schedule",01-07-2019,00:01,-,2020-05-27T15:33:56.247530
+26-05-2020,"State Sector (SS)",Nasik,Maharashtra,MAHAGENCO,5,210,"Zero Schedule.",04-07-2019,15:27,-,2020-05-27T15:33:56.382415
+26-05-2020,"State Sector (SS)",Nasik,Maharashtra,MAHAGENCO,3,210,RSD,08-07-2019,19:33,-,2020-05-27T15:33:56.466672
+26-05-2020,"State Sector (SS)",PARLI,Maharashtra,MAHAGENCO,6,250,RSD,12-12-2018,00:00,-,2020-05-27T15:33:56.578020
+26-05-2020,"State Sector (SS)",Trombay,Maharashtra,MAHAGENCO,6,500,"Unit 6 is kept under economic shutdown since 4th May.",04-05-2016,00:00,-,2020-05-27T15:33:56.688721
+26-05-2020,"State Sector (SS)","URAN B0",Maharashtra,MAHAGENCO,1,120,"Transformer shifting work",08-09-2018,12:19,-,2020-05-27T15:33:56.797970
+26-05-2020,"State Sector (SS)",WPCL,Maharashtra,MAHAGENCO,3,135,AOH,01-11-2018,00:28,-,2020-05-27T15:33:56.926774
+26-05-2020,"State Sector (SS)",WPCL,Maharashtra,MAHAGENCO,4,135,RSD,15-12-2018,00:00,-,2020-05-27T15:33:57.033767
+26-05-2020,"State Sector (SS)","RATTAN INDIA POWER(A)",Maharashtra,"Rattan India Power Ltd",2,270,"No Schedule",29-06-2019,00:00,-,2020-05-27T15:33:57.143735
