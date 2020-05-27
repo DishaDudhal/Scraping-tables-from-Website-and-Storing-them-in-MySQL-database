@@ -21,14 +21,14 @@ Columns in mysql table <br>
 Note: If value not available on site for any column insert null, also choose appropriate data types for columns. 
 <br> 
 Do not insert following row in mysql table 
-● Central Sector (CS)\ 
-● Sub Total(CS)\ 
-● State Sector (SS)\ 
-● Sub Total(SS)\ 
-● Total Planned Outage (CS+SS)\ 
- 
+● Central Sector (CS)<br> 
+● Sub Total(CS)<br>
+● State Sector (SS)<br>
+● Sub Total(SS)<br>
+● Total Planned Outage (CS+SS)<br>
+<br>
 Note: Only insert rows having S.no. in 1st column 
-
+<br>
 Libraries used for this project include
 1) Beautifulsoup.   (pip install beautifulsoup4)
 2) urllib           (pip install urllib)
@@ -36,8 +36,8 @@ Libraries used for this project include
 4) sauce            (pip install sauce)
 5) mysqlclient      (pip install mysqlclient) 
 
-Python Version used  - Python 3.6.6 64-bit \
-MySQL version - 8.0.20 64 bit version (please install Visual Studio C++ 2019 redistributable version for this purpose beforehand)\
+Python Version used  - Python 3.6.6 64-bit<br>
+MySQL version - 8.0.20 64 bit version (please install Visual Studio C++ 2019 redistributable version for this purpose beforehand)<br><br>
 
 Steps for working:
 1) I first created the desired table in MySQL. Code for which can be found in MySQL_queries.sql file. For the purpose of this project I have created two tables namely "planned_outages" and "Planned".
@@ -47,9 +47,9 @@ Steps for working:
 4) The entire Python code is commented and pretty much self explanatory.
 5) After running the code succesfully.In the MySQL_queries.sql file you can also find commands for checking the data in the tables created and the number of rows.
 6) Two csv output files are provoded which are nothing but the SQL database tables exported into CSV format from the Workbench.
-
+<br>
 Incase of queries feel free to contact me at : dishadudhal@gmail.com
-
+<br>
 References:
 1) https://docs.python.org/3/library/urllib.html
 2) https://github.com/aminazirani/Python-Scraping-to-Database-Sample/blob/master/scraping_single_web_page.py
