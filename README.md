@@ -50,19 +50,19 @@ Steps for working:
 <br>
 Incase of queries feel free to contact me at : dishadudhal@gmail.com
 <br>
-References:
-1) https://docs.python.org/3/library/urllib.html
-2) https://github.com/aminazirani/Python-Scraping-to-Database-Sample/blob/master/scraping_single_web_page.py
-3) https://howpcrules.com/step-by-step-guide-on-scraping-data-from-a-website-and-saving-it-to-a-database/
-4) https://www.mysqltutorial.org/mysql-data-types.aspx/
-5) https://dev.mysql.com/doc/refman/8.0/en/
-6) https://pypi.org/project/sauce/
-7) https://lxml.de/elementsoup.html
-8) https://www.edureka.co/community/19715/programmingerror-arguments-converted-string-formatting
-9) https://pythonprogramminglanguage.com/web-scraping-with-pandas-and-beautifulsoup/
-10) https://www.youtube.com/watch?v=sAuGH1Kto2I
-11) https://www.youtube.com/watch?v=ve_0h4Y8nuI&list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t
-
+References:<br>
+1) https://docs.python.org/3/library/urllib.html<br>
+2) https://github.com/aminazirani/Python-Scraping-to-Database-Sample/blob/master/scraping_single_web_page.py<br>
+3) https://howpcrules.com/step-by-step-guide-on-scraping-data-from-a-website-and-saving-it-to-a-database/<br>
+4) https://www.mysqltutorial.org/mysql-data-types.aspx/<br>
+5) https://dev.mysql.com/doc/refman/8.0/en/<br>
+6) https://pypi.org/project/sauce/<br>
+7) https://lxml.de/elementsoup.html<br>
+8) https://www.edureka.co/community/19715/programmingerror-arguments-converted-string-formatting<br>
+9) https://pythonprogramminglanguage.com/web-scraping-with-pandas-and-beautifulsoup/<br>
+10) https://www.youtube.com/watch?v=sAuGH1Kto2I<br>
+11) https://www.youtube.com/watch?v=ve_0h4Y8nuI&list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t<br>
+<br>
 Thanks to all the content creators on youtube, bloggers and github users which helped in the realization of this assignment.
-
+<br>
 Happy coding!
