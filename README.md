@@ -1,25 +1,25 @@
-# Scraping-tables-from-Website-and-Storing-them-in-MySQL-database\
-Developed a web crawler/ scrapper/ spider to crawl a website with multiple tables and store the information form one of the tables into MySQL database using Python.\
-\
- Write a code to scrape data from a given url.\ 
- URL :  http://103.7.130.119:8181/GenOutageReportD.aspx \
- Scrape 1st table form site i.e. A. Planned Outages and store data in mysql db \
- Columns in mysql table \
- ● date (given in datepicker of site)\ 
- ● sector_type (can be Central Sector or State Sector it will appear at the start of table data)\ 
- ● station\ 
- ● state\ 
- ● agency\ 
- ● unit_no\ 
- ● capacity\ 
- ● reason\ 
- ● outage_date\ 
- ● outage_time \
- ● expected_revival_date\ 
- ● inserted_at(time when data is inserted in db in format YYYY-MM-DD HH:MM:SS)\ 
- \
+# Scraping-tables-from-Website-and-Storing-them-in-MySQL-database
+Developed a web crawler/ scrapper/ spider to crawl a website with multiple tables and store the information form one of the tables into MySQL database using Python.<br>
+<br>
+Write a code to scrape data from a given url.<br> 
+URL :  http://103.7.130.119:8181/GenOutageReportD.aspx <br>
+Scrape 1st table form site i.e. A. Planned Outages and store data in mysql db <br>
+Columns in mysql table <br>
+● date (given in datepicker of site)<br>
+● sector_type (can be Central Sector or State Sector it will appear at the start of table data)<br>
+● station<br> 
+● state<br>
+● agency<br>
+● unit_no<br> 
+● capacity<br>
+● reason<br> 
+● outage_date<br>
+● outage_time<br>
+● expected_revival_date<br>
+● inserted_at(time when data is inserted in db in format YYYY-MM-DD HH:MM:SS)<br>
+<br>
 Note: If value not available on site for any column insert null, also choose appropriate data types for columns. 
-\ 
+<br> 
 Do not insert following row in mysql table 
 ● Central Sector (CS)\ 
 ● Sub Total(CS)\ 
